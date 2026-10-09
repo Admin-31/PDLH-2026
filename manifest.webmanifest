@@ -1,0 +1,11 @@
+{
+  "name": "Loket Kegiatan - Registrasi dan Absensi",
+  "short_name": "Loket Kegiatan",
+  "description": "Verifikasi ID Card dan absensi peserta kegiatan.",
+  "lang": "id-ID",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7f8",
+  "theme_color": "#102c3a",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
